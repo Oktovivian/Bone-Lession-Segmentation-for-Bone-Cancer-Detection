@@ -55,9 +55,28 @@ Please cite the paper if you use this dataset in your research:
 [13] Deep Learning-Assisted Detection of Metabolic Abnormalities in Whole-Body Bone Scans, PubMed ID: 36334360.
 
 
+```
+
+## U-Net++
+UNet++ is an architecture for semantic segmentation based on the U-Net. Through the use of densely connected nested decoder sub-networks, it enhances extracted feature processing and was reported by its authors to outperform the U-Net in Electron Microscopy (EM), Cell, Nuclei, Brain Tumor, Liver and Lung Nodule medical image segmentation tasks.
+
+![image](https://github.com/user-attachments/assets/f44ffda0-b3a4-49f2-a00b-43cc88337b44)
+
+## Key Features
+- **Nested Dense Skip Pathways**: Redesigned skip connections reduce the semantic gap between encoder and decoder feature maps, enabling the optimizer to learn more efficiently.
+- **Deep Supervision**: Multi-level supervision during training improves convergence and segmentation accuracy.
+  
+## Reference
+- **Paper**: [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://doi.org/10.48550/arXiv.1807.10165)
+- **Authors**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang
+- **Published**: Accepted by the 4th Deep Learning in Medical Image Analysis (DLMIA) Workshop.
+
+## Citation
+If you find this work useful, please cite the original paper
 
 
 Stay tuned for my upcoming paper and further advancements in this project.
+The paper of this project will published soon
 
 
 
