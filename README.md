@@ -32,6 +32,10 @@ This dataset and methodology are part of a study conducted at West China Hospita
 - **Paper Title**: [Deep Learning-Assisted Detection of Metabolic Abnormalities in Whole-Body Bone Scans](https://pubmed.ncbi.nlm.nih.gov/36334360/)
 - **Published On**: PubMed
 
+## Paper Under Review
+
+Currently, I am preparing a paper based on this dataset and the methodology used in this research. The paper is under review and will be published soon. Stay tuned for updates, and I appreciate your patience and support.
+
 ## Usage
 
 Researchers and practitioners can use this dataset for tasks such as:
@@ -49,3 +53,13 @@ Please cite the paper if you use this dataset in your research:
 
 ```plaintext
 [13] Deep Learning-Assisted Detection of Metabolic Abnormalities in Whole-Body Bone Scans, PubMed ID: 36334360.
+
+
+
+
+Stay tuned for my upcoming paper and further advancements in this project.
+
+
+
+
+
