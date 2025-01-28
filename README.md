@@ -32,9 +32,6 @@ This dataset and methodology are part of a study conducted at West China Hospita
 - **Paper Title**: [Deep Learning-Assisted Detection of Metabolic Abnormalities in Whole-Body Bone Scans](https://pubmed.ncbi.nlm.nih.gov/36334360/)
 - **Published On**: PubMed
 
-## Paper Under Review
-
-Currently, I am preparing a paper based on this dataset and the methodology used in this research. The paper is under review and will be published soon. Stay tuned for updates, and I appreciate your patience and support.
 
 ## Usage
 
@@ -74,10 +71,11 @@ UNet++ is an architecture for semantic segmentation based on the U-Net. Through 
 ## Citation
 If you find this work useful, please cite the original paper
 
+## Paper Under Review
 
-Stay tuned for my upcoming paper and further advancements in this project.
-The paper of this project will published soon
+Currently, I am preparing a paper based on this dataset and the methodology used in this research. The paper is under review and will be published soon. I kindly ask that this code and dataset not be used, shared, or modified until the paper is officially published. Thank you for your understanding.
 
+Stay tuned for updates, and I appreciate your patience and support as I continue to advance this project
 
 
 
