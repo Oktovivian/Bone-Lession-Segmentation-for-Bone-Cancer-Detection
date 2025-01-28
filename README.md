@@ -75,8 +75,7 @@ If you find this work useful, please cite the original paper
 
 Currently, I am preparing a paper based on this dataset and the methodology used in this research. The paper is under review and will be published soon. I kindly ask that this code and dataset not be used, shared, or modified until the paper is officially published. Thank you for your understanding.
 
-Stay tuned for updates, and I appreciate your patience and support as I continue to advance this project
-
+This code is proprietary and is shared for reference purposes only. It may not be used, modified, or distributed without explicit permission from the author. Use of this code is restricted until the related research paper is officially published
 
 
 
